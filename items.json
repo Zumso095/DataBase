@@ -1,14 +1,14 @@
 {
-    "klinker": [
-        {
-            "name": "Boroco",
-            "icon": "https://tasduvarpanelleri.com/wp-content/uploads/2018/04/klinker-tugla-KK-1-600x600.jpg",
-            "image": "https://steinrein.com/wp-content/uploads/2020/09/klinker-scaled.jpeg"
-        },
-        {
-            "name": "Moroco",
-            "icon": "https://www.klinkerhaus.ru/files/crh/kirpich/wega-n-k.jpg",
-            "https://grizly.club/uploads/posts/2023-01/1673199027_grizly-club-p-besshovnaya-tekstura-serogo-oblitsovochnog-11.jpg"
-        }
-    ]
+  "klinker": [
+    {
+      "name": "Boroco",
+      "icon": "https://tasduvarpanelleri.com/wp-content/uploads/2018/04/klinker-tugla-KK-1-600x600.jpg",
+      "image": "https://steinrein.com/wp-content/uploads/2020/09/klinker-scaled.jpeg"
+    },
+    {
+      "name": "Moroco",
+      "icon": "https://www.klinkerhaus.ru/files/crh/kirpich/wega-n-k.jpg",
+      "image": "https://grizly.club/uploads/posts/2023-01/1673199027_grizly-club-p-besshovnaya-tekstura-serogo-oblitsovochnog-11.jpg"
+    }
+  ]
 }
