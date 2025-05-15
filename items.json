@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "name": "Item1",
+            "image": "https://example.com/item1.png"
+        },
+        {
+            "name": "Item2",
+            "image": "https://example.com/item2.png"
+        }
+    ]
+}
